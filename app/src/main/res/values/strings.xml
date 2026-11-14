@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Axion Live Picker</string>
+    <string name="video_wp_label">Axion 120FPS Video Engine</string>
+    <string name="video_wp_desc">Hardware-accelerated 120Hz MP4 Live Wallpaper Engine for Infinix X6882</string>
+</resources>
