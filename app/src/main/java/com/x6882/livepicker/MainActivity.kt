@@ -414,8 +414,7 @@ class MainActivity : Activity() {
             }
 
             val pkgText = TextView(context).apply {
-                text = "${info.packageName}
-${info.serviceName.substringAfterLast('.')}"
+                text = "${info.packageName}\n${info.serviceName.substringAfterLast('.')}"
                 setTextColor(Color.parseColor("#777777"))
                 setTextSize(TypedValue.COMPLEX_UNIT_SP, 11f)
             }
